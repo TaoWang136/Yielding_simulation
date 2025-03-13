@@ -8,6 +8,17 @@ Yielding at unsignalized locations is a complex driving behavior often associate
 
 The grid_mdp_v1.py is my custom environment. You need to create your own environment based on GYM.
 
+# Method
+
+Run train_yield.py to extract the expert's evasion policy.
+Run test_yield.py to test the expert's evasion policy.
+
+
+# Requirement 
+
+
+
+
 
 
 
