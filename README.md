@@ -15,7 +15,11 @@ Run test_yield.py to test the expert's evasion policy.
 
 
 # Requirement 
-
+torch==1.7.0
+gym==0.10.5
+python==3.7
+numpy ==1.21.6
+tqdm== 4.67.1
 
 
 
