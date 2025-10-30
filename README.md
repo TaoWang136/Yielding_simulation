@@ -1,11 +1,6 @@
 # Yielding Simulation
 **Deconstructing Human Driver Yielding Policies at Unsignalized Pedestrian Crossings with GAIL**
 
-[English](#english-version) | [中文说明](#中文说明)
-
----
-
-## English Version
 
 ### Overview
 Yielding at unsignalized pedestrian crossings is a complex driving behavior linked to pedestrian-related conflicts. This repository provides a data-driven framework that **deconstructs human drivers’ yielding policies** using **Generative Adversarial Imitation Learning (GAIL)** within a **Distance–Velocity (DV)** interaction space.
