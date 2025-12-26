@@ -135,4 +135,3 @@ CITATION
 If you use this repository in your research, please cite:
 Deconstructing driving behaviors in interactions with pedestrians at uncontrolled crosswalks: an imitation learning method
 
-(You may replace this section with the official BibTeX once available.)
