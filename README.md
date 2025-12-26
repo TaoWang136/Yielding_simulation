@@ -115,7 +115,7 @@ VISUALIZATION
 -------------
 We visualize generated trajectories across training iterations and observe that they gradually become more human-like.
 The file "yielding_traj.gif" demonstrates this evolution process.
-
+![Yielding trajectory evolution](gail_yielding_ppo_intersection/yielding_traj.gif)
 
 REFERENCES
 ----------
